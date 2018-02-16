@@ -1,5 +1,5 @@
 # GOTLeastCommonAncestor
-Given the Game of Thrones family tree in .dot format and any two characters in the .dot file, this returns the least common ancestor(s) of the characters.
+Given any family tree in .dot format and any two people in the family tree in the .dot file, this returns the closest common ancestor(s) of the two people.
 
 Instructions for compiling from command line: There are 2 ways to do this
 
