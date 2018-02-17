@@ -35,6 +35,7 @@ public class App
             e.printStackTrace();
         }
 
+        // input validation
         if(!g.containsVertex(args[1]))
         {
             throw new IllegalArgumentException("Please make sure \'"+ args[1]+"\' belongs to the family tree");
